@@ -46,7 +46,8 @@ var showdata = () => {
     if( showname1 != 0 && showrollnumber2 != 0 && showEmail != 0 ){
 
 
-
+         document.querySelector (".emailmust").style.display = "none";
+        
         document.querySelector(".showname").innerHTML = showname1;
         document.querySelector(".showrollnumber").innerHTML = showrollnumber2;
         document.querySelector(".showEmail").innerHTML = showEmail;
