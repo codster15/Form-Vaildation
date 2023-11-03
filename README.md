@@ -4,16 +4,16 @@ Hey there! I'm Deepak singh, a web developer with a passion for creating delight
 
 ## 💻 My Work
 
-### Form Validation 
+### Data Validation 
 
-🚀 I'm excited to share my latest small project, a form validation application crafted with HTML, CSS, and JavaScript. This project is a testament to my commitment to improving user interactions and data accuracy.
+🚀 I'm excited to share my latest small project, a Data validation application crafted with HTML, CSS, and JavaScript. This project is a testament to my commitment to improving user interactions and data accuracy.
 
 📦 **Key Features:**
 - Custom validation functions for various input fields 🧐
 - Real-time error feedback and visually pleasing validation indicators 🌟
 - Modern and clean user interface design 🎨
 
-🔗 You can check out Form Validation here:  https://codster15.github.io/Form-Vaildation/
+🔗 You can check out Data Validation here:  https://codster15.github.io/Form-Vaildation/
 
 ## 🌐 Connect with Me
 
